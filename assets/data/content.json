@@ -1,0 +1,350 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "title": "Thought Leadership for Senior Professionals",
+      "description": "Develop strategies to position yourself as a thought leader within your industry. This training focuses on leveraging your expertise, experience and perspective to creative relevant, unique and elegant insights by Thinking, Positioning and Delivering. Building your personal brand and equity that influences and inspires peers and followers, establishing you as a trusted authority and visionary in your field.",
+      "price": "₹1500",
+      "category": "Corporates",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=1"
+    },
+    {
+      "id": 2,
+      "title": "Executive Presence",
+      "description": "Enhance your leadership impact with executive presence training. Learn the key elements of Assumptions, Communication and Energy that benchmark you, your presence and Signature Style. Build confident communication, strategic thinking, and professional demeanor that inspire trust and respect. This course helps managers project authority, while connecting with their team and stakeholders to drive organisational and personal goals.",
+      "price": "₹2000",
+      "category": "Corporates",
+      "image": "assets/img/course-2.jpg",
+      "link": "course-details.html?id=2"
+      
+    },
+    {
+      "id": 3,
+      "title": "Public Speaking Mastery",
+      "description": "Master the art of public speaking with this comprehensive training. Gain confidence, use the power of your words, voice and body to create seamless messaging. Improve your storytelling, and learn effective techniques for engaging and persuading audiences. Whether presenting to a small team or a large crowd, you'll develop the skills to deliver compelling and memorable speeches.",
+      "price": "₹1500",
+      "category": "Corporates",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=3"
+    },
+    {
+      "id": 4,
+      "title": "Persuasion & Sales",
+      "description": "Boost your sales performance by mastering the principles of persuasion. This training covers relationship buying and diagnostic selling to solve real customer needs. Learn to uncover the 'unspoken' problems that customers need addressed as well effective communication strategies, and the art of building rapport. Learn to address the 'why' of sales - to overcome objections, and close deals with confidence and integrity.",
+      "price": "₹1500",
+      "category": "Corporates",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=4"
+    },
+    {
+      "id": 5,
+      "title": "High Impact Presentations",
+      "description": "Transform your presentation skills to make a lasting impression. This course teaches you to create engaging content, utilize visual aids effectively, and deliver with confidence and clarity. Learn to engage and captivate your audience, convey your message powerfully, and achieve your presentation goals.",
+      "price": "₹1500",
+      "category": "Corporates",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=5"
+    },
+    {
+      "id": 6,
+      "title": "Data Storytelling",
+      "description": "Turn complex data into compelling narratives with data storytelling training. This course teaches you to visualize data, highlight key insights, and craft stories that resonate with your audience across various stages and cycles of business. This course helps you make data-driven decisions accessible and engaging, enhancing your ability to communicate ordinarily boring data - effectively.",
+      "price": "₹1500",
+      "category": "Corporates",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=6"
+    },
+    {
+      "id": 7,
+      "title": "Talk like TED Speakers",
+      "description": "Discover the secrets behind TED Talks' speakers and learn to emulate their style while building your own. This course goes behind the scenes to understand the Top 25 TED Talks and speakers - focusing on your 'throughline', methods of speech delivery, storytelling to gift ideas, presentation and revelation techniques that include wonder-walks, and audience engagement strategies used by top TED speakers. Enhance your speaking and delivery skills to share life changing insights you wish to share with the world that resonate",
+      "price": "₹1500",
+      "category": "Corporates",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=7"
+    },
+    {
+      "id": 8,
+      "title": "Inter-Personal Communication",
+      "description": "Improve your interpersonal communication skills to build stronger relationships and enhance collaboration. Guided by our signature 'The Art of the Exchange' approach - this course covers active listening, empathy, complimenting, conflict resolution, and effective feedback. Learn to communicate with clarity and respect, fostering a positive and productive environment in both professional and personal interactions.",
+      "price": "₹1500",
+      "category": "Corporates",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=8"
+    },
+    {
+      "id": 9,
+      "title": "Personality Development for Teachers",
+      "description": "Teachers are constantly looked up to and serve as role models above and beyond their professional service of teaching. We nourish and train teachers with fresh insights, approaches, pedagogies and communicative skills that reflect the ethos and culture of the institutions they serve. Teachers are on the frontline day in and day out and are the most critical link between the students, parents and school management. They are an institution's ambassadors and children model teachers.",
+      "price": "₹1500",
+      "category": "Educational Institutions",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=9"
+    },
+    {
+      "id": 10,
+      "title": "Building a Communicative Class & Classroom Management",
+      "description": "Create an engaging and orderly learning environment with this training. Learn strategies for fostering open communication, encouraging student participation, and implementing effective classroom management techniques. Gain skills to handle disruptions, establish routines, and promote a collaborative atmosphere that supports student success.",
+      "price": "₹1500",
+      "category": "Educational Institutions",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=10"
+    },
+    {
+      "id": 11,
+      "title": "21st Century Teaching | Using AI , Technology, Skill & Art Integration",
+      "description": "21st Century Teaching is a synthesis including the use of  Artificial Intelligence, technology, skill & art integration to enhance the practical and application based value of education. By utilizing advanced tools and creative methods, educators can personalize learning, foster critical thinking, and encourage creativity. This approach prepares students for future challenges, making learning more engaging, relevant, and effective in today’s digital world.",
+      "price": "₹1500",
+      "category": "Educational Institutions",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=11"
+    },
+    {
+      "id": 12,
+      "title": "Integrating Life Skills with School Curricula of STEM & Social Sciences",
+      "description": "Contemporary education focuses on Outcomes and Application rather than Input and Knowledge. Transferable (Life) skills like Analytical and Creative Thinking, Resilience, Flexibility, Motivation, and Self-Awareness can be injected and read with subjects like the social sciences, STEM subjects. These skills enhance subject comprehension, foster problem-solving abilities, build social emotional intelligence and prepare students for real-world challenges, ensuring they are well-rounded, adaptable, and motivated lifelong learners.",
+      "price": "₹1500",
+      "category": "Educational Institutions",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=12"
+    },
+    {
+      "id": 13,
+      "title": "How to teach Speech, Drama and Communication Skills",
+      "description": "Communication in the 21st century is not about just your words, enunciation and projection. This program helps learners develop the difference between Having Something to Say and Having to Say Something. By focussing on the seamless use of Voice, Words and Body, this program develops learners to Have Something to Say and How to Say it. The program can lead to students appearing for Trinity College London exams in Communication Skills and Speech & Drama",
+      "price": "₹1500",
+      "category": "Educational Institutions",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=13"
+    },
+    {
+      "id": 14,
+      "title": "Increasing English Speaking & Listening Fluency",
+      "description": "The teaching of English as a second language to non native speakers has evolved drastically over the last two decades. Our programs work towards building a 'Communicative Competence' model, comprising of Linguistic competence, Social-Linguistic competence, Discourse competence and Strategic competence. Our training Program, Resources and Lesson Plans are benchmarked to the CEFR (Council of Europe) Levels and Descriptors - Levels: Pre A1 to B2. The program can lead to students appearing for Trinity College London exams in English Speaking & Listening.",
+      "price": "₹1500",
+      "category": "Educational Institutions",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=14"
+    },
+    {
+      "id": 15,
+      "title": "Annual Day - Founder's Day | Drama, Dance, Music & Theatre Productions",
+      "description": "A school's Annual Theatrical Production or Founder's Day is highly anticipated and memorable for both students and parents. The preparation process fosters key transferable life skills, including communication, creativity, teamwork, collaboration, time management, performance abilities, and confidence. These productions not only enrich students' personal growth but can also be certified by Trinity College London, enhancing students' profiles for higher education.",
+      "price": "₹1500",
+      "category": "Educational Institutions",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=15"
+    },
+    {
+      "id": 16,
+      "title": "Developing Confidence in Young Learners | Ages 3 to 7 Years",
+      "description": "Our curriculum is designed to meet the Learning Outcomes and Assessment Criteria of Trinity’s Young Performers Certificates Syllabus. The curriculum is designed to encourage young children to develop Confidence through the use of English, performance, musical and communication skills as they create and explore stories, songs, roles and situations through the imaginative and integrated use of movement, music, voice and artwork.",
+      "price": "₹1500",
+      "category": "Curricula",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=16"
+    },
+    {
+      "id": 17,
+      "title": "English - Speaking & Listening",
+      "description": "Develop strategies to position yourself as a thought leader within your industry. This training focuses on thinking, positioning, and delivering relevant insights that influence and inspire.",
+      "price": "₹1500",
+      "category": "Curricula",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=17"
+    },
+    {
+      "id": 18,
+      "title": "Speech & Drama | Ages 6-16 Yrs",
+      "description": "Our Speech & Drama curriculums are designed to empower learners to seamlessly integrate the use of their Voice and Body. The curriculum engages learners to develop their skills in performing and speaking across a variety of literary forms, including prose, poetry, mime, real life speeches and play extracts. The curriculum is built around pair, group and solo work engaging learners to reflect on the content, setting, mood and perspective while also developing key life skills Critical thinking and problem-solving, Planning and preparation, Verbal and Non-Verbal Communication.",
+      "price": "₹1500",
+      "category": "Curricula",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=18"
+    },
+    {
+      "id": 19,
+      "title": "Communication Skills | Ages 7 - 18 Yrs",
+      "description": "Our Communication Skills curriculum is designed for learners who want to focus on practical, creative tasks that reflect real-world situations. They curriculum empowers and teaches learners to deliver talks, presentations and express their own ideas. Learners learn to listen, assimilate information and respond appropriately in discussion on familiar and unfamiliar topics. The format of the curriculum allows learners to create their own talks and presentations based on topics they have a particular interest in, or that complement their studies. Additionally, students develop invaluable 21st century skills in Research and Reflection, Communication and Creativity, and to build Confidence and make real progress in both education and the workplace.",
+      "price": "₹1500",
+      "category": "Curricula",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=19"
+    },
+    {
+      "id": 20,
+      "title": "English Speaking & Listening | Initial Level (CEFR A1-A2.1)",
+      "description": "Developing ENGLISH Skills, Speaking & Listening (S&L)",
+      "price": "₹1500",
+      "category": "Teachers Training",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=20",
+      "points": ["Understand what is said clearly, slowly and directly in simple everyday conversation with support.", "Communicate in basic and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.", "Use basic sentence patterns and communicate through simple phrases, groups of a few words and formulae about themselves and other people, what they do, places and possessions.", "Ask and answer simple questions about personal information and everyday life."]
+    },
+    {
+      "id": 21,
+      "title": "English Speaking & Listening | Elementary Level (CEFR A2.2-B2.1)",
+      "description": "Developing ENGLISH Skills, Speaking & Listening (S&L)",
+      "price": "₹1500",
+      "category": "Teachers Training",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=21",
+      "points": ["Understand the main points of clear speech on familiar matters.", "Enter into conversation, express personal opinions and exchange information on familiar subjects of personal interest or related to everyday life.", "Demonstrate a sufficient range of language to describe experiences and events and give reasons and explanations for opinions and plans."]
+    },
+    {
+      "id": 22,
+      "title": "Trinity Grades Initial, 1, 2 & 3 OFQUAL Level 1",
+      "description": "Teaching SPEECH & DRAMA",
+      "price": "₹1500",
+      "category": "Trinity",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=22"
+    },
+    {
+      "id": 23,
+      "title": "Trinity Grades 4, 5 & 6 OFQUAL Level 2 & 3",
+      "description": "Teaching SPEECH & DRAMA",
+      "price": "₹1500",
+      "category": "Trinity",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=23"
+    },
+    {
+      "id": 24,
+      "title": "Trinity Grades Initial, 1, 2 & 3 OFQUAL Level 1",
+      "description": "Teaching COMMUNICATION SKILLS",
+      "price": "₹1500",
+      "category": "Trinity",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=24"
+    },
+    {
+      "id": 25,
+      "title": "Trinity Grades 4, 5 & 6 OFQUAL Level 2 & 3",
+      "description": "Teaching COMMUNICATION SKILLS",
+      "price": "₹1500",
+      "category": "Trinity",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=25"
+    },
+    {
+      "id": 26,
+      "title": "Trinity Grades 6, 7 & 8 OFQUAL Level 3",
+      "description": "Teaching COMMUNICATION SKILLS",
+      "price": "₹1500",
+      "category": "Trinity",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=26"
+    },
+    {
+      "id": 27,
+      "title": "Trinity Grades Associate Diploma OFQUAL Level 4",
+      "description": "Teaching COMMUNICATION SKILLS",
+      "price": "₹1500",
+      "category": "Trinity",
+      "image": "assets/img/course-1.jpg",
+      "link": "course-details.html?id=27"
+    }
+  ],
+
+  "services": [
+    {
+      "id": 1,
+      "title": "Professional Development for Corporates",
+      "description": "An independent study by Stanford Research Institute and Carnegie Mellon revealed that 'people skills' account for 75% of long-term job success, while 'technical knowledge' contributes only 25%. Our training programs include Thought Leadership, Persuasion and Presentation skills, Sales training, Executive Presence, Data & narrative Storytelling, TED-style Public Speaking, Interpersonal Communication for rapport building, Customer Service training, Etiquette and Cultural Diversity, etc.,",
+      "image": "assets/img/events-item-1.jpg",
+      "date": "Sunday, September 26th at 7:00 pm",
+      "url": "service-details.html?id=1"
+    },
+    {
+      "id": 2,
+      "title": "Training for Schools",
+      "description": "Schools rightly prioritize children's learning, but teachers and non-teaching staff also play crucial roles as brand ambassadors and role models. Enhancing their communication skills, personality, executive presence, and pedagogical methods focused on skill development, classroom management, and interpersonal collaboration is essential. These attributes are vital for effective engagement with parents and other stakeholders.",
+      "image": "assets/img/events-item-2.jpg",
+      "url": "service-details.html?id=2"
+    },
+    {
+      "id": 3,
+      "title": "Curriculum Development",
+      "description": "Our curriculum emphasises the holistic personality development in children. We create curricula for schools, centred around everyday spoken English, communication skills, speech, and drama. Each school receives a tailored program through our LMS, aligned with the appropriate child-centred learning outcomes and lesson plans.  The curriculum is benchmarked to international standards and students can also appear for Trinity College London exams in the respective subjects.",
+      "image": "assets/img/events-item-1.jpg",
+      "date": "Sunday, September 26th at 7:00 pm",
+      "url": "service-details.html?id=1"
+    },
+    {
+      "id": 4,
+      "title": "Annual Day for Schools",
+      "description": "A school's Annual Theatrical Production or Founder's Day is highly anticipated and memorable for both students and parents. The preparation process fosters key transferable life skills, including communication, creativity, teamwork, collaboration, time management, performance abilities, and confidence. These productions not only enrich students' personal growth but can also be certified by Trinity College London, enhancing their profiles for higher education.",
+      "image": "assets/img/events-item-1.jpg",
+      "date": "Sunday, September 26th at 7:00 pm",
+      "url": "service-details.html?id=1"
+    },
+    {
+      "id": 5,
+      "title": "Teacher Training",
+      "description": "The most current educational policies be it from Unicef, to the OECD or even The National Education Policy 2020 - emphasises 'skill building' and 'knowledge application'. This prioritises the holistic social-emotional-communicative personality of a child over mere academic scores. Our teacher training programs identify the importance of key learning stages with a focused attention to the need of learners of that respective age. Skilled, trained, and certified teachers are crucial to this approach and can start their own practice thereafter.",
+      "image": "assets/img/events-item-1.jpg",
+      "date": "Sunday, September 26th at 7:00 pm",
+      "url": "service-details.html?id=1"
+    },
+    {
+      "id": 6,
+      "title": "Bespoke Solutions & Workshops",
+      "description": "Our team, comprising education policy planners, teachers, academics, curriculum developers, and former principals, brings extensive experience across various fields of industry and levels. We have a very good understanding of Music, Arts Integration, Drama in Education, and Professional Categories like Purpose, Leadership, Team Building, Engagement, Productivity, Service, Strategy, Performance, And Change.",
+      "image": "assets/img/events-item-1.jpg",
+      "date": "Sunday, September 26th at 7:00 pm",
+      "url": "service-details.html?id=1"
+    }
+  ],
+
+  "ourteam": [
+    {
+      "id": 1,
+      "name": "Jyotishka Dasgupta",
+      "designation": "Founder",
+      "description": "Jyotishka's journey bridges Science, the Arts and Education.  Currently serving as the President of the 100+ year-old Calcutta School of Music, he is a prolific composer for theatre and film. Jyotishka's leadership extends to education as the former Joint Academic Head for Trinity College London. He is also the Kolkata Representative, expanding Trinity's reach across Eastern India. For 36 years, he's been a pillar of the Dolna Day School. His dedication embodies the transformative power of arts and education.",
+      "image": "assets/img/teams/Jyotishka.avif"
+    },
+    {
+      "id": 2,
+      "name": "Anthony Gomes",
+      "designation": "Founder",
+      "description": "Anthony is a director in the Furtados group of companies, which is in the forefront of musical instruments retail and distribution, music book publishing and music schools. He is the Area Manager for Western India for Trinity College London. He was awarded Honorary Membership of Trinity College of Music (Hon TCL) in 2007 for his outstanding leadership in leading the Mumbai Centre to become a pioneering centre for Trinity examinations. Anthony is a violinist and a former member of the Bombay Chamber Orchestra. He did his schooling at Campion School and completed his Bachelor Degree in Economics from St Xavier’s College in 1992.",
+      "image": "assets/img/teams/Anthony.avif"
+    },
+    {
+      "id": 3,
+      "name": "Sachin Das",
+      "designation": "Founder",
+      "description": "Sachin is the Country Manager for Trinity College London (Indian Sub-continent). Since 2010, he has actively participated in the furthering of music and drama education in India. He serves as a Director at the 175+year Museé Musical, Furtado's Music and Cloud Theatre Company. As a young student of music, he appeared for several Graded Exams in Violin and is also an Associate Of Trinity College London (ATCL) in Communication Skills - Public Speaking.  Sachin has also studied the fine art and science of piano design and restoration in the USA. Sachin is also an architect by profession. In 2003, he returned from the US to set up his practice in Architecture and Interior Design in Chennai. He is currently Principal Architect for ViSDA and is also a passionate photographer, naturalist and Indophile.",
+      "image": "assets/img/teams/Sachin.avif" 
+    },
+    {
+      "id": 4,
+      "name": "Dale Edwards",
+      "designation": "Founder & Academic Lead",
+      "description": "Dale has the rare distinction of holding two Masters Level qualifications in Performance & Teaching. Dale is a Fellow of Trinity College London (FTCL – Education Studies), awarded for his thesis developed around “Teaching Oral Communication Skills in the 21st Century”.  Dale is also a Fellow of LCM - University of West London (FLCM – Drama & Communication) in addition to being a credentialed trainer from Dale Carnegie Inc. and holding an ATCL & LTCL with Distinction in ‘Communication Skills’ from Trinity College London. As one of the leading teachers of ‘Communication & Life Skills’ in the Indian sub-continent,  Dale’s 7,500+ training hours has impacted 5,000+ children and adults, 1200+ teachers and 100+ schools across 24 cities. Since 2015, Dale has been a part of the Academic Team and since 2018, serves as the Head of the Academic Team for Trinity College London in India. Since 1991, Dale has hosted in excess of 900 live and television events as a professional on-stage host, compere and anchor.",
+      "image": "assets/img/teams/Dale.avif"
+    },
+    {
+      "id": 5,
+      "name": "Varun Mata",
+      "designation": "Founder & Business Lead",
+      "description": "Varun is a seasoned professional with a robust background in Finance, Operations, and Marketing. In addition to heading the Business and Operations for Trinity College London in North India, Varun also drives Novus’ Business Development. He is a rank holder Chartered Accountant and began his career in Delhi and has since worked with prestigious companies across Kuwait, Qatar, and Mumbai. Varun is also an Associate of Trinity College London (ATCL) in Communication Skills. With twenty years of experience in Corporate Sales & Marketing, Vendor Management, Business Management, Key Account Management, and Business Planning, Varun has a demonstrated track record of success. He excels in building and implementing strategies that enhance market presence and drive revenue growth. An avid marathon runner, Varun brings his discipline and competitive spirit to the workplace. His expertise extends to Customer Relationship Management (CRM), leading strategic initiatives, alliance management, and project incubation. Varun is known for his innovative approach and his ability to lead teams towards achieving organizational goals.",
+      "image": "assets/img/teams/Varun.avif"
+    },
+    {
+      "id": 6,
+      "name": "Sowmiyan Janardhanan",
+      "designation": "Founder & Operations Lead",
+      "description": "A former employee of the Revenue Department - Government of India, Sowmiyan has a passion and eye for the detail. He oversees the day to day Operations and logistics of Trinity College London in India and the sub-continent. Sowmiyan is an old hand in the education space and is actively involved in the day to day management of the Musee Musical School of Music.",
+      "image": "assets/img/teams/Sowmiyan.avif"
+    }
+  ]
+}
+
+
+
+
+
