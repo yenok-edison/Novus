@@ -64,8 +64,8 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="https://www.iktaraa.com/lms/sign-in" target="_blank" rel="noopener noreferrer">LMS
-        Dashboard</a>
+      <a class="btn-getstarted" href="https://www.iktaraa.com/lms/sign-in" target="_blank"
+        rel="noopener noreferrer">LMS</a>
 
     </div>
   </header>
@@ -104,8 +104,9 @@
           <div class="course-main shadow-sm rounded-4 p-4 p-lg-5">
             <div class="row align-items-center g-5">
               <!-- Content -->
-              <div class="col-md-6 order-2 order-md-1">
+              <div class="col-md-6 order-2 order-md-1 mt-0">
                 <h2 id="course-title" class="fw-bold mb-3"></h2>
+                <!-- <h2 id="course-title" class="fw-bold mb-3"></h2> -->
                 <div class="mb-4">
                   <span id="course-category" class="category-badge"></span>
                 </div>
@@ -218,12 +219,12 @@
                       they develop their first words and sentences in English. The program helps teachers build on
                       collaborative learning, practice of language skills, and the internalising of social norms,
                       fostering cognitive and emotional growth.</p> -->
-                      <ul>
-                        <li>Developing Confidence in Young Learners through Drama</li>
-                        <li>Developing English Language Speaking and Listening Skills</li>
-                        <li>Developing the Use of Voice and Body Language through Speech & Drama</li>
-                        <li>Developing Communicative - Inter Personal, Presentation and Public Speaking Skills</li>
-                      </ul>
+                    <ul>
+                      <li>Developing Confidence in Young Learners through Drama</li>
+                      <li>Developing English Language Speaking and Listening Skills</li>
+                      <li>Developing the Use of Voice and Body Language through Speech & Drama</li>
+                      <li>Developing Communicative - Inter Personal, Presentation and Public Speaking Skills</li>
+                    </ul>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/tabs/tab-4.png" alt="" class="img-fluid">
@@ -320,6 +321,7 @@
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
   <!-- Main JS File -->
+  <script src="assets/js/config.js"></script>
   <script src="assets/js/main.js"></script>
   <script src="assets/js/course-details.js"></script>
   <script src="assets/js/popup.js"></script>
@@ -342,46 +344,22 @@
             <div class="row g-3">
               <div class="col-md-6">
                 <label class="form-label">Name</label>
-                <input
-                  type="text"
-                  class="form-control"
-                  id="enquiryName"
-                  name="name"
-                  required
-                >
+                <input type="text" class="form-control" id="enquiryName" name="name" required>
               </div>
 
               <div class="col-md-6">
                 <label class="form-label">Email Address</label>
-                <input
-                  type="email"
-                  class="form-control"
-                  id="enquiryEmail"
-                  name="email"
-                  required
-                >
+                <input type="email" class="form-control" id="enquiryEmail" name="email" required>
               </div>
 
               <div class="col-12">
                 <label class="form-label">Subject</label>
-                <input
-                  type="text"
-                  class="form-control"
-                  id="enquirySubject"
-                  name="subject"
-                  readonly
-                >
+                <input type="text" class="form-control" id="enquirySubject" name="subject" readonly>
               </div>
 
               <div class="col-12">
                 <label class="form-label">Short Description</label>
-                <textarea
-                  class="form-control"
-                  id="enquiryMessage"
-                  name="message"
-                  rows="4"
-                  required
-                ></textarea>
+                <textarea class="form-control" id="enquiryMessage" name="message" rows="4" required></textarea>
               </div>
             </div>
 
