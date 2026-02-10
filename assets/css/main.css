@@ -2943,72 +2943,6 @@ section,
 
 /* ===== SERVICE CARD ===== */
 
-.service-item {
-  background: #ffffff;
-  border-radius: 22px;
-  transition: all 0.35s ease;
-  border: 1px solid rgba(0, 0, 0, 0.04);
-}
-
-/* Hover effect */
-.service-item:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 22px 45px rgba(0, 0, 0, 0.12);
-}
-
-/* Image styling */
-.service-item img {
-  height: 310px;
-  object-fit: cover;
-  border-top-left-radius: 22px;
-  border-top-right-radius: 22px;
-}
-
-/* Content */
-.service-item .p-4 {
-  padding: 28px !important;
-}
-
-/* Title */
-.service-item h4 {
-  font-size: 18px;
-  font-weight: 600;
-  color: #1560bd;
-  /* color: #0f172a; */
-  margin-bottom: 10px;
-  line-height: 1.4;
-  text-align: center;
-}
-
-/* Description */
-.service-item p {
-  font-size: 14.5px;
-  line-height: 1.7;
-  color: #6b7280;
-  /* text-align: center; */
-}
-
-/* Button */
-.service-item .btn {
-  align-self: flex-start;
-  border-radius: 30px;
-  padding: 6px 18px;
-  font-size: 13px;
-  font-weight: 500;
-  transition: all 0.3s ease;
-}
-
-/* Button hover */
-.service-item .btn-outline-primary {
-  border-color: #1560bd;
-  color: #1560bd;
-}
-
-.service-item .btn-outline-primary:hover {
-  background-color: #1560bd;
-  color: #ffffff;
-}
-
 /* Responsive */
 @media (max-width: 768px) {
   .service-item img {
@@ -3077,3 +3011,5 @@ section,
     transform: translateX(-50%);
   }
 }
+
+

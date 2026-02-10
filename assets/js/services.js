@@ -8,29 +8,32 @@ document.addEventListener("DOMContentLoaded", () => {
 
       data.forEach(service => {
         container.innerHTML += `
-          <div class="col-lg-6 col-md-6">
-            <div class="service-item h-100 shadow-sm rounded-4 overflow-hidden">
+          <div class="col-md-6 d-flex align-items-stretch">
+            <div class="card">
 
-              <img
-                src="${window.APP_CONFIG.API_BASE_URL}${service.image}"
-                class="img-fluid w-100"
-                alt="${service.title}"
-              >
+              <div class="card-img">
+                <img
+                  src="${window.APP_CONFIG.API_BASE_URL}${service.image}"
+                  alt="${service.title}"
+                />
+              </div>
 
-              <div class="p-4 d-flex flex-column h-100">
-                <h4 class="fw-semibold mb-2">${service.title}</h4>
+              <div class="card-body">
+                <h5 class="card-title">
+                  <a href="service-details.html?id=${service.id}">
+                    ${service.title}
+                  </a>
+                </h5>
 
-                <p class="text-muted small flex-grow-1">
-                  ${service.description}
+                <p class="fst-italic text-center">
+                  ${service.date}
                 </p>
 
-                <a
-                  href="service-details.html?id=${service.id}"
-                  class="btn btn-outline-primary btn-sm mt-auto"
-                >
-                  View More
-                </a>
+                <p class="card-text">
+                  ${service.description}
+                </p>
               </div>
+
             </div>
           </div>
         `;
@@ -42,3 +45,5 @@ document.addEventListener("DOMContentLoaded", () => {
         "<p class='text-danger'>Unable to load services</p>";
     });
 });
+
+
